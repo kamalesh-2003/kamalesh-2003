@@ -45,4 +45,5 @@ Welcome to my GitHub profile! I'm a Junior at Arizona State University pursuing 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Plaid](https://img.shields.io/badge/Plaid-4A154B?style=for-the-badge&logo=plaid&logoColor=white)
+
 Feel free to explore my repositories and connect with me! Let's create something amazing together 🚀.
