@@ -1,6 +1,6 @@
 ## Hello there 👋 I'm Kamalesh!
 
-Welcome to my GitHub profile! I'm a Junior at Arizona State University pursuing a major in **Computer Science**
+Welcome to my GitHub profile! I'm a Senior at Arizona State University pursuing a major in **Computer Science**
 
 ### I am currently learning full stack web and mobile development.
 
