@@ -12,8 +12,6 @@ Welcome to my GitHub profile! I'm a Senior at Arizona State University pursuing 
 
 ### Please feel free to email me at redkam2003@gmail.com.
 
-### ⚡ Fun fact: I still play Fortnite and I am proud of it :).
-
 ## 🛠️ Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
