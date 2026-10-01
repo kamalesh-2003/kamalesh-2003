@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an MS Computer Science student at Arizona Stat
 
 ### I co-founded Tac LLC, delivering 100+ Raspberry Pi-based electronic Braille devices to visually impaired students in South Africa.
 
-### You can check out my resume [here](./resume.pdf).
+### You can check out my resume [here](./Kamalesh_Arugunta_Resume.pdf).
 
 ### Please feel free to email me at redkam2003@gmail.com.
 
